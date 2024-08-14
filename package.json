@@ -1,0 +1,9 @@
+{
+  "bin": "main.go",
+  "scripts": {
+  "build:css": "npx tailwindcss -i ./static/src/styles.css -o ./static/dist/styles.css --watch"},
+  "name": "my-own-project",
+  "author": "MRKCTRL",
+  "version": "1.0.0",
+  "license": "UNLICENCED"
+}
